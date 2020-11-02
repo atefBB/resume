@@ -1,4 +1,4 @@
-# dcyou.github.io
+# atefBB.github.io
 [![Build Status](https://travis-ci.org/dcyou/resume.svg?branch=master)](https://travis-ci.org/dcyou/resume)
 [![Known Vulnerabilities](https://snyk.io//test/github/dcyou/resume/badge.svg?targetFile=package.json)](https://snyk.io//test/github/dcyou/resume?targetFile=package.json)
 [![Coverage Status](https://coveralls.io/repos/github/dcyou/resume/badge.svg?branch=master)](https://coveralls.io/github/dcyou/resume?branch=master)
@@ -7,7 +7,7 @@
 > My resume by using NuxtJS (VueJS), Element and some useful tools
 
 ## Demo
-https://dcyou.github.io/resume/
+https://atefBB.github.io/resume/
 
 ## Build Setup
 
